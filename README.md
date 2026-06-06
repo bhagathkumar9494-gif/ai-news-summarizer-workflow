@@ -30,9 +30,4 @@ Email Delivery
 - RSS Feeds
 - Gmail
 
-## Screenshots
 
-(Add workflow screenshots here)
-
-## Author
-Bhagath Kumar
